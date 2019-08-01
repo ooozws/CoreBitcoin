@@ -4,6 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = "CoreBitcoin is an implementation of Bitcoin protocol in Objective-C and swift."
   s.description  = <<-DESC
                    Forked from https://github.com/oleganza/CoreBitcoin
+                   DESC
   s.homepage     = "https://github.com/ooozws/CoreBitcoin"
   s.license      = 'WTFPL'
   s.author       = { "weisaizhang" => "weisaizhang@gmail.com" }
