@@ -1,4 +1,4 @@
-// CoreBitcoinSwift by Oleg Andreev <oleganza@gmail.com>, WTFPL.
+// CoreBitcoin by Oleg Andreev <oleganza@gmail.com>, WTFPL.
 
 #import <CoreBitcoinSwift/BTC256.h>
 #import <CoreBitcoinSwift/BTCAddress.h>
